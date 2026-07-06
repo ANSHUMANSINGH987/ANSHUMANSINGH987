@@ -5,25 +5,16 @@
 
 <br />
 
-<div align="center">
-  <table border="0" style="border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td width="55%" style="border: none; text-align: left; vertical-align: top;">
-        <h2><img src="https://i.postimg.co/Pr44P1gL/cat-typing.gif" width="35" height="35" align="center" alt="cat icon" /> About Me:</h2>
-        <ul>
-          <li>🌱 I’m currently building <strong>Agentic AI workflows</strong></li>
-          <li>💬 Ask me about <strong>NLP & LLMs</strong></li>
-          <li>📫 Reach me at <strong>singhanshuman584@gmail.com</strong></li>
-          <li>⚡ Fun fact <strong>I code best on zero sleep</strong> ☕</li>
-        </ul>
-      </td>
-      <td width="45%" style="border: none; text-align: center; vertical-align: middle;">
-        <img src="https://i.postimg.co/25BvL6V3/workspace-loop.gif" width="100%" alt="Developer Workspace Animation" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
-</div>
+## 💻 About Me
 
+<img src="./workspace-loop.gif" align="right" width="42%" style="border-radius: 8px; margin-left: 15px;" alt="Workspace Animation" />
+
+* 🌱 I’m currently building **Agentic AI workflows**
+* 💬 Ask me about **NLP & LLMs**
+* 📫 Reach me at **singhanshuman584@gmail.com**
+* ⚡ Fun fact **I code best on zero sleep** ☕
+
+<br clear="right"/>
 <br />
 
 ## 🧑‍🤝‍🧑 Reach out to me:
