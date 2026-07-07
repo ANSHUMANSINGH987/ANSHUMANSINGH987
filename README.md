@@ -5,7 +5,7 @@
 
 <br />
 
-## 💻 About Me
+## <img src="./computer-loop.gif" width="38" height="35" align="center" alt="Retro PC" /> About Me
 
 <img src="./workspace-loop.gif" align="right" width="42%" style="border-radius: 8px; margin-left: 15px;" alt="Workspace Animation" />
 
