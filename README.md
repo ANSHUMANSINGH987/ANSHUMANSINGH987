@@ -13,10 +13,10 @@
         <img src="./computer-loop.gif" width="48" height="44" style="vertical-align: middle;" alt="Retro PC" /> About Me
       </h2>
       <ul style="margin-top: 10px; padding-left: 20px;">
-        <li style="margin-bottom: 8px;">🌱 I’m currently building **Agentic AI workflows**</li>
-        <li style="margin-bottom: 8px;">💬 Ask me about **NLP & LLMs**</li>
-        <li style="margin-bottom: 8px;">📫 Reach me at **singhanshuman584@gmail.com**</li>
-        <li style="margin-bottom: 8px;">⚡ Fun fact **I code best on zero sleep** ☕</li>
+        <li style="margin-bottom: 8px;">🌱 I’m currently building  Agentic AI workflows</li>
+        <li style="margin-bottom: 8px;">💬 Ask me about  NLP & LLMs</li>
+        <li style="margin-bottom: 8px;">📫 Reach me at  singhanshuman584@gmail.com</li>
+        <li style="margin-bottom: 8px;">⚡ Fun fact I code best on zero sleep ☕</li>
       </ul>
     </td>
     <td width="50%" style="border: none; text-align: right; vertical-align: top; padding: 0;">
